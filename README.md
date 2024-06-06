@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexRotkinV
+- 👋 Hi, I’m Alex Rotkin 
 - 👀 I’m interested in programming, reading, taking photo
 - 🌱 I’m currently learning English and programming 
 - 💞️ I’m looking to collaborate on C++, Python
